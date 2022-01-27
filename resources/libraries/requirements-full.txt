@@ -229,7 +229,7 @@ ipywidgets==7.5.1
 jupyter_http_over_ws==0.0.7
 jupyter-console==6.1.0
 jupyter-kernel-gateway==2.4.0
-jupyter-server-proxy==1.2.0
+jupyter-server-proxy==3.2.1
 nbdev==0.2.9
 nbinteract==0.2.4
 nbval==0.9.4
