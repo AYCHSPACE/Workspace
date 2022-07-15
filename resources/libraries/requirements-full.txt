@@ -37,7 +37,7 @@ datasketch==1.5.0
 deap==1.3.1
 dgl==0.4.2
 diamond==4.0.515
-distributed==2.9.3
+distributed==2021.10.0
 dm-sonnet==1.35
 docker==4.1.0
 edward==1.3.5
