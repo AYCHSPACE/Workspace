@@ -118,7 +118,7 @@ neo4j-driver==1.7.6
 nevergrad==0.3.1
 nose2==0.9.1
 numexpr==2.7.1
-onnx==1.6.0
+onnx==1.13.0
 onnxruntime==1.1.1
 optuna==1.0.0
 pandas-datareader==0.8.1
